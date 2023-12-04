@@ -1,0 +1,24 @@
+
+.qw img{
+transition-property: height;
+transition-duration: 0.6s;
+
+
+
+}
+.qw img:hover{
+    height: 230px;
+}
+.categories{
+    background-color: aquamarine;
+}
+.cato img{
+    height: 160px;
+    width: 200px;
+}
+.cato h4{
+    text-align: center;
+}
+.footer{
+    background-color:gainsboro;
+}
